@@ -1,31 +1,31 @@
 ---
-title: "Ikopanye"
+title: "კონტაქტი"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Re fa thuso go go thusa go bona **ditharabololo tsa tshireletso** le **disebelisoa tse di molemo tsa burglar alarm** tse di siametseng kgwebo ya gago. Fa o tlhoka tshegetso ya botegeniki, dintlha tsa kabo, kgotsa tshedimosetso ya kabelano, setlhopha sa rona se nang le maitemogelo se ikemiseditse go thusa.
+ჩვენ აქ ვართ, რათა დაგეხმაროთ თქვენი ბიზნესისთვის საუკეთესო **ქურდების წინააღმდეგ დამცავი პროდუქტის** და **უსაფრთხოების გადაწყვეტილებების** შერჩევაში. მიუხედავად იმისა, გჭირდებათ ტექნიკური მხარდაჭერა, დისტრიბუციის დეტალები თუ პარტნიორობის ინფორმაცია, ჩვენი გამოცდილი გუნდი მზად არის დაგეხმაროთ.
 
-## 📍 Ikopanye le Athenalarm
+## 📍 კონტაქტი Athenalarm
 
-**Aterese:**  
+**მისამართი:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Imeile:**  
+**ელ.ფოსტა:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mogala / WhatsApp / Viber:**  
+**მობილური / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Website:**  
+**ვებსაიტი:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Ikamanya le Rona
+## 🌐 დამაკავშირეთ ჩვენთან
 
-Lula o itse dikgatololo tsa rona tsa morao-rao tsa tshireletso, diphuputso tsa dikai, le ditlhabololo tsa dithoto:
+გახდით ინფორმირებულნი ჩვენი უახლესი **უსაფრთხოების ინოვაციებით**, **საქმეების შესწავლებით** და **პროდუქტების გამოშვებებით**:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Lula o itse dikgatololo tsa rona tsa morao-rao tsa tshireletso, diphuputso tsa d
 
 ---
 
-> _Athenalarm — Moetsi wa Dikgwebo tsa Burglar Alarm tse di Itsegeng & Ditharabololo tsa Tlhokomelo ya Maranyane ya Tshireletso._
+> _Athenalarm — პროფესიონალური **ქურდების წინააღმდეგ დამცავი სისტემების მწარმოებელი** & **ქსელური სიგნალიზაციის მონიტორინგის გადაწყვეტილებები**._

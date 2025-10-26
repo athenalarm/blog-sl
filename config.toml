@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blogtn.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Blog ya Athenalarm"
-languageCode = "tn"
+baseURL = "https://blogka.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Athenalarm ბლოგი"
+languageCode = "ka"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,24 +13,24 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Legae"
+    name = "მთავარი"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "Dikgang"
+    name = "პოსტები"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "Ikgolaganye"
+    name = "კონტაქტი"
     url = "/contact/"
     weight = 3
 
 # ---------------------------
 # Home Page Settings
 # ---------------------------
-paginate = 5          # 首页显示最新 5 篇文章
-mainSections = ["posts"]  # Home 页面只显示 type 为 "posts" 的文章
+paginate = 5          # მთავარი გვერდი აჩვენებს ბოლო 5 პოსტს
+mainSections = ["posts"]  # მთავარი გვერდი აჩვენებს მხოლოდ type = "posts" პოსტებს
