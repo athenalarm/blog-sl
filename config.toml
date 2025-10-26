@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://bloglt.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Athenalarm Tinklaraštis"
-languageCode = "lt"
+baseURL = "https://bloghy.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Athenalarm Բլոգ"
+languageCode = "hy"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,24 +13,24 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Pagrindinis"
+    name = "Գլխավոր"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "Įrašai"
+    name = "Հոդվածներ"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "Kontaktai"
+    name = "Կապ"
     url = "/contact/"
     weight = 3
 
 # ---------------------------
 # Home Page Settings
 # ---------------------------
-paginate = 5          # Pagrindiniame puslapyje rodoma naujausių 5 įrašų
-mainSections = ["posts"]  # Pagrindiniame puslapyje rodomi tik tipo "posts" įrašai
+paginate = 5          # 首页显示最新 5 篇文章
+mainSections = ["posts"]  # Home 页面只显示 type 为 "posts" 的文章

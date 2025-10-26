@@ -1,31 +1,31 @@
 ---
-title: "Kontaktai"
+title: "Կապ"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Esame čia, kad padėtume jums rasti geriausius **signalizacijos sistemų nuo įsilaužimų produktus** ir **saugumo sprendimus** jūsų verslui. Nesvarbu, ar jums reikia techninės pagalbos, paskirstymo informacijos ar partnerystės galimybių, mūsų patyrusi komanda pasirengusi jums padėti.
+Մենք այստեղ ենք՝ օգնելու ձեզ գտնել ձեր բիզնեսի համար ամենահարմար գողության ազդանշանային համակարգերը և անվտանգության լուծումները։ Անկախ նրանից՝ ձեզ անհրաժեշտ է տեխնիկական աջակցություն, դիստրիբյուտորական տեղեկատվություն կամ գործընկերային համագործակցության մանրամասներ, մեր փորձառու թիմը պատրաստ է աջակցել ձեզ։
 
-## 📍 Kontaktai su Athenalarm
+## 📍 Կապ հաստատեք Athenalarm-ի հետ
 
-**Adresas:**  
+**Հասցե․**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**El. paštas:**  
+**Էլ. փոստ․**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobilus / WhatsApp / Viber:**  
+**Բջջային / WhatsApp / Viber․**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Interneto svetainė:**  
+**Վեբկայք․**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Prisijunkite prie mūsų
+## 🌐 Կապվեք մեզ հետ առցանց
 
-Sekite naujausias mūsų **saugumo inovacijas**, atvejų studijas ir produktų naujienas:
+Մնացեք տեղեկացված մեր անվտանգության վերջին նորարարությունների, գործնական ուսումնասիրությունների և արտադրանքի թողարկումների մասին․
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Sekite naujausias mūsų **saugumo inovacijas**, atvejų studijas ir produktų n
 
 ---
 
-> _Athenalarm — Profesionali signalizacijos sistema nuo įsilaužimų gamintoja & Tinklų signalizacijos stebėjimo sprendimai._
+> _Athenalarm — Գողության ազդանշանային համակարգերի պրոֆեսիոնալ արտադրող և ցանցային ազդանշանների մոնիտորինգի լուծումների մատակարար։_

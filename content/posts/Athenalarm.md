@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – Profesionalus Nusikaltimų Signalizacijos Gamintojas ir Tinklų Signalizacijos Stebėjimo Sprendimai"
+title: "Athenalarm – Մասնագիտական գողության ահազանգային համակարգերի արտադրող և ցանցային ահազանգի մոնիտորինգի լուծումներ"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## Apžvalga
+## Ընդհանուր դիտարկում
 
-Įkurta 2006 m., Athenalarm yra profesionalus nusikaltimų signalizacijos gamintojas, specializuojantis į įsilaužimo signalizacijos ir tinklų signalizacijos stebėjimo sistemas. Mūsų produktai suteikia patikimus ir praktiškus saugumo sprendimus verslui, įstaigoms ir gyvenamosioms bendruomenėms. Mes orientuojamės į pramoninės klasės įsilaužimo signalizacijos sistemas, kurios jungia įsilaužimo signalizaciją su CCTV realiuoju laiku patikrinimui, palaiko nuotolinę diagnostiką ir centralizuotą valdymą. Šios sistemos tinka įvairiems sektoriams, įskaitant bankininkystę, švietimą, mažmeninę prekybą, sveikatos priežiūrą ir gyvenamąsias bendruomenes, ir yra patikimos klientų visame pasaulyje.
+Ստեղծված է 2006 թվականին՝ **Athenalarm**-ը մասնագիտացված է որպես մասնագիտական գողության ահազանգային համակարգերի արտադրող՝ կենտրոնանալով ներխուժման ահազանգերի և ցանցային ահազանգի մոնիտորինգի համակարգերի վրա։ Մեր արտադրանքները տրամադրում են հուսալի և գործնական անվտանգության լուծումներ բիզնեսների, հաստատությունների և բնակելի համայնքների համար։ Մենք կենտրոնանում ենք արդյունաբերական դասի ներխուժման ահազանգային համակարգերի վրա, որոնք համատեղում են ահազանգերը և CCTV տեսահսկումը՝ իրական ժամանակի վավերացման, հեռակա ախտորոշման և կենտրոնացված կառավարման աջակցությամբ։ Այս համակարգերը հարմար են տարբեր ոլորտների համար՝ ներառյալ բանկային, կրթական, մանրածախ, առողջապահական և բնակելի համայնքներ, և վստահված են հաճախորդների կողմից ամբողջ աշխարհում։
 
-Mūsų platus produktų asortimentas apima signalizacijos paneles, signalizacijos programinę įrangą, judesio jutiklius, signalizacijos detektorius, signalizacijos komponentus, išmaniuosius namų sprendimus ir balso priminimų įrenginius. Šie nusikaltimų signalizacijos produktai suteikia išsamią saugumo apsaugą įvairioms taikymo sritims – nuo bankų seifų iki bendruomenių perimetrų ir įmonių patalpų.
+Մեր լայն արտադրական շարքը ընդգրկում է ահազանգային վահանակներ, ահազանգային ծրագրեր, շարժման սենսորներ, ահազանգային դետեկտորներ, բաղադրիչներ, խելացի տան համակարգեր և ձայնային հիշեցման սարքեր։ Այս գողության ահազանգային արտադրանքները ապահովում են համապարփակ անվտանգություն տարբեր կիրառությունների համար՝ բանկային պահոցներից մինչև համայնքային պարիսպներ և ձեռնարկությունների օբյեկտներ։
 
-Be to, siūlome OEM ir individualaus ženklinimo paslaugas, leidžiančias partneriams paleisti privatus ženklinimus turinčias įsilaužimo signalizacijos sistemas su aparatūros pritaikymu, daugiakalbiais vadovais ir pakuočių palaikymu. Nesvarbu, ar esate platintojas, integratorius ar galutinis vartotojas, Athenalarm pasiūlymai leidžia sklandžiai diegti profesionalius saugumo sprendimus visame pasaulyje.
+Բացի այդ, մենք առաջարկում ենք OEM և անհատական բրենդավորման ծառայություններ՝ թույլ տալով գործընկերներին թողարկել սեփական նշանով ներխուժման ահազանգային համակարգեր՝ սարքավորման հարմարեցմամբ, բազմալեզու ձեռնարկներով և փաթեթավորման աջակցությամբ։ Անկախ նրանից՝ դուք դիստրիբյուտոր եք, ինտեգրատոր կամ վերջնական օգտագործող, **Athenalarm**-ի լուծումները թույլ են տալիս ամբողջ աշխարհում գործարկել մասնագիտական անվտանգության համակարգեր առանց խոչընդոտների։
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## Produktai
+## Ապրանքներ
 
-![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
+![Արդյունաբերական AS-9000 Series ահազանգային վահանակներ տեղադրված առևտրային համալիրում](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Produktų Linija | Pagrindinės Naudos | Idealiai Tinka |
-|-----------------|-----------------|----------------|
-| AS-9000 Series Signalizacijos Panelės | Daugiakanalė komunikacija (PSTN, 4G, TCP/IP), išplečiamos zonos (16 laidinių, 30 belaidžių, iki 1,656 per modulius), LCD klaviatūra su balso instrukcijomis, apsauga nuo trikdymo, automatinis įvykių registravimas | Bankams, pramonės parkams, mokykloms, komerciniams kompleksams, gyvenamosioms bendruomenėms |
-| Tinklų Signalizacijos Stebėjimo Sprendimai | Centralizuotas valdymas, integruoja įsilaužimo signalizaciją su CCTV ir debesų platformomis, realaus laiko signalizacijos iššokantys pranešimai, vaizdo įrašymas, daugiapakopė persiuntimas, nuotolinė diagnostika | Bankų filialams, bankomatams, seifams, viešbučiams, parduotuvėms, įmonėms, perimetrams, gyvenamosioms bendruomenėms |
-| AA-100 Series Balso Paskatinimai | Tinkinamieji balso įspėjimai (MP3), dvikryptis atkūrimas, tylus signalizacijos režimas, laidinis/belaidis integravimas, dvigubos apšvietimo parinktys | Mažmeninės prekybos vietoms, ligoninėms, biurams, viešbučiams, bankams, sandėliams, gyvenamosioms vietoms |
-| Signalizacijos Detektoriai | PIR judesio jutikliai (AT-805, AT-806), fotoelektrinis dūmų detektorius (AS-603PC), dujų detektorius (AS-705), skaitmeninis vibracijos detektorius (AS-971), durų kontaktas (AA-56), pavojaus mygtukai (AA-28B, AA-07) | Namams, biurams, bankams, viešbučiams, ligoninėms, sandėliams, mažmeninės prekybos vietoms |
-| Išmanieji Namų Sprendimai | GSM/WIFI signalizacijos sistema (AS-6000), integruojama su kitais jutikliais ir panelėmis automatiniams įspėjimams bei nuotoliniam stebėjimui | Gyvenamosioms bendruomenėms, biurams, mažoms įmonėms |
+| Ապրանքային գիծ | Հիմնական առավելություններ | Հարմար է համար |
+|----------------|--------------------------|----------------|
+| AS-9000 Series Ահազանգային Վահանակներ | Բազմաալիքային կապ (PSTN, 4G, TCP/IP), ընդարձակվող գոտիներ (16 մալուխային, 30 անլար, մինչև 1,656 մոդուլների միջոցով), LCD ստեղնաշար ձայնային հուշումներով, քերծման հայտնաբերում, ավտոմատ իրադարձությունների գրանցում | Բանկեր, արդյունաբերական պարկեր, դպրոցներ, առևտրային համալիրներ, բնակելի համայնքներ |
+| Ցանցային Ահազանգի Մոնիտորինգի Լուծումներ | Կենտրոնացված կառավարում, ներխուժման ահազանգերի ինտեգրում CCTV և ամպային հարթակների հետ, իրական ժամանակի ահազանգի բացում, տեսանյութերի ձայնագրում, բազմամակարդակ փոխանցում, հեռակա ախտորոշում | Բանկային մասնաճյուղեր, բանկոմատներ, պահոցներ, հյուրանոցներ, խանութներ, ձեռնարկություններ, պարիսպներ, բնակելի համայնքներ |
+| AA-100 Series Ձայնային Հիշեցումներ | Անհատականացվող ձայնային ծանուցումներ (MP3), երկկողմանի նվագարկում, լուռ ահազանգի ռեժիմ, մալուխային/անլար ինտեգրում, երկակի լուսային ռեժիմներ | Մանրածախ տարածքներ, հիվանդանոցներ, գրասենյակներ, հյուրանոցներ, բանկեր, պահեստներ, բնակելի տարածքներ |
+| Ահազանգային Դետեկտորներ | PIR շարժման սենսորներ (AT-805, AT-806), ֆոտոէլեկտրական ծխի դետեկտոր (AS-603PC), գազի դետեկտոր (AS-705), թվային թրթռման դետեկտոր (AS-971), դռան կոնտակտ (AA-56), տագնապային կոճակներ (AA-28B, AA-07) | Տներ, գրասենյակներ, բանկեր, հյուրանոցներ, հիվանդանոցներ, պահեստներ, մանրածախ տարածքներ |
+| Խելացի Տան Համակարգեր | GSM/WIFI ահազանգային համակարգ (AS-6000), ինտեգրվում է այլ սենսորների և վահանակների հետ՝ ավտոմատ ծանուցումների և հեռակա մոնիտորինգի համար | Բնակելի համայնքներ, գրասենյակներ, փոքր բիզնեսներ |
 
-[Žiūrėti Vaizdo Įrašą 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Žiūrėti Vaizdo Įrašą 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Դիտել Տեսանյութ 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Դիտել Տեսանյութ 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## OEM ir Individualaus Ženklinimo Paslaugos
+## OEM և Անհատական Բրենդավորման Ծառայություններ
 
-Siūlome privatus ženklinimas ir individualius sprendimus platintojams bei integratoriams: aparatūros pritaikymas, daugiakalbiai vadovai, pakuotės ir ženklinimo palaikymas. Leidžia partneriams greitai ir profesionaliai paleisti ženklintus nusikaltimų signalizacijos produktus.
+Մենք տրամադրում ենք մասնավոր բրենդի և անհատական լուծումներ դիստրիբյուտորների և ինտեգրատորների համար՝ սարքավորման հարմարեցում, բազմալեզու ձեռնարկներ, փաթեթավորում և բրենդային աջակցություն։ Սա թույլ է տալիս գործընկերներին արագ և պրոֆեսիոնալ ձևով թողարկել սեփական բրենդավորված գողության ահազանգային արտադրանքներ։
 
-Idealiai Tinka: Platintojams ir integratoriams, paleidžiantiems ženklintus saugumo produktus
+Հարմար է համար՝ դիստրիբյուտորներ և ինտեգրատորներ, որոնք թողարկում են բրենդավորված անվտանգության արտադրանքներ։
 
-[Peržiūrėti OEM Pavyzdį](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[Դիտել OEM Օրինակ](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## Kodėl Athenalarm Išsiskiria
+## Ինչու է Athenalarm-ը Առանձնանում
 
-- Patikrinta Patirtis: Nuo 2006 m., teikiant mastelio įsilaužimo signalizacijos ir nusikaltimų signalizacijos sprendimus, kuriais pasitiki klientai visame pasaulyje.  
-- Universalus Pritaikymas: Idealiai tinka bankams, viešbučiams, parduotuvėms, bendruomenėms, biurams ir kt.—jungiant signalizacijas, CCTV ir debesų technologiją centralizuotam valdymui.  
-- Ekonomiška Inovacija: Lengvai įdiegiamos sistemos su daugiakanale komunikacija (PSTN, 4G, TCP/IP) ir išplečiamomis funkcijomis už konkurencingą kainą.  
-- Klientų Pasitenkinimas: Patikimi saugumo produktai ir sistemos, kuriomis pasitiki klientai visame pasaulyje.
+- Փորձված փորձագիտություն․ սկսած 2006 թվականից՝ տրամադրելով մասշտաբային ներխուժման և գողության ահազանգային լուծումներ, որոնք վստահված են հաճախորդների կողմից ամբողջ աշխարհում։  
+- Բազմակողմանի կիրառություն․ իդեալական բանկերի, հյուրանոցների, խանութների, համայնքների, գրասենյակների և այլնի համար՝ համատեղելով ահազանգերը, CCTV-ն և ամպային տեխնոլոգիան կենտրոնացված կառավարման համար։  
+- Գնահատված նորարարություն․ հեշտ տեղադրվող համակարգեր՝ բազմաալիքային կապով (PSTN, 4G, TCP/IP) և ընդարձակվող հնարավորություններով՝ մրցունակ գնով։  
+- Հաճախորդների գոհունակություն․ վստահված ամբողջ աշխարհում հուսալի անվտանգության արտադրանքների և համակարգերի համար։
 
-[Peržiūrėti Klientų Įdiegimo Atvejus](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Դիտել Հաճախորդների Տեղադրման Օրինակներ](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## Klientų Atsiliepimai
+## Հաճախորդների Կարծիքներ
 
-- „Įsilaužimo signalizacija veikia puikiai, įdiegiau vieną rinkinį ir jis puikiai veikia.“ – Rabeah Arnous, CEO  
-- „Nuostabi sistema…Įdiegiau ją, ir mano klientas buvo labai patenkintas. 5 žvaigždučių įvertinimas.“ – Bassey Tom, CEO  
-- „Tinklų signalizacijos stebėjimo sistema yra puiki, lengva naudoti, lengva įdiegti ir realaus laiko perdavimas. Laukiame kito užsakymo.“ – Ben Takan, Saugumo Koordinatorius
+- “Ներխուժման ահազանգային համակարգը հիանալի է, տեղադրեցի և այն գերազանց աշխատում է։ ” – Rabeah Arnous, ԳԼԽԱՎՈՐ ՏՆՕՐԵՆ  
+- “Հիասքանչ համակարգ... տեղադրեցի այն, և իմ հաճախորդը լիովին գոհ մնաց։ 5 աստղանի գնահատական։ ” – Bassey Tom, ԳԼԽԱՎՈՐ ՏՆՕՐԵՆ  
+- “Ցանցային ահազանգի մոնիտորինգի համակարգը շատ լավն է, հեշտ է օգտագործել, հեշտ է տեղադրել և ապահովում է իրական ժամանակի փոխանցում։ Մենք անհամբերությամբ սպասում ենք մեր հաջորդ պատվերին։ ” – Ben Takan, Անվտանգության Համակարգող
 
-## Pradėkite
+## Սկսեք Այժմ
 
-Nesvarbu, ar esate saugumo integratorius, platintojas ar galutinis vartotojas, Athenalarm teikia aukštos kokybės nusikaltimų signalizacijos produktus ir įsilaužimo signalizacijos sistemas, pritaikytas jūsų poreikiams.
+Անկախ նրանից՝ դուք անվտանգության ինտեգրատոր եք, դիստրիբյուտոր կամ վերջնական օգտագործող, **Athenalarm**-ը տրամադրում է բարձր որակի գողության ահազանգային արտադրանքներ և ներխուժման ահազանգային համակարգեր՝ հարմարեցված ձեր պահանջներին։
 
-[Aplankykite Athenalarm.com Dabar – Gaukite Nemokamą Pasiūlymą Šiandien!](https://athenalarm.com/)
+[Այցելեք Athenalarm.com Հիմա – Ստացեք Անվճար Գնանշում Այսօր!](https://athenalarm.com/)
 
-## Susisiekite Tiesiogiai
+## Կապվեք Մեզ Ուղղակիորեն
 
-- Svetainė: [https://athenalarm.com/](https://athenalarm.com/)  
-- El. paštas: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Mobilus/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Վեբկայք՝ [https://athenalarm.com/](https://athenalarm.com/)  
+- Էլ. փոստ՝ [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Բջջային/WhatsApp/Viber՝ [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## Sekite Mus
+## Հետևեք Մեզ
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  
