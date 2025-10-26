@@ -1,31 +1,31 @@
 ---
-title: "კონტაქტი"
+title: "Kontaktai"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-ჩვენ აქ ვართ, რათა დაგეხმაროთ თქვენი ბიზნესისთვის საუკეთესო **ქურდების წინააღმდეგ დამცავი პროდუქტის** და **უსაფრთხოების გადაწყვეტილებების** შერჩევაში. მიუხედავად იმისა, გჭირდებათ ტექნიკური მხარდაჭერა, დისტრიბუციის დეტალები თუ პარტნიორობის ინფორმაცია, ჩვენი გამოცდილი გუნდი მზად არის დაგეხმაროთ.
+Esame čia, kad padėtume jums rasti geriausius **signalizacijos sistemų nuo įsilaužimų produktus** ir **saugumo sprendimus** jūsų verslui. Nesvarbu, ar jums reikia techninės pagalbos, paskirstymo informacijos ar partnerystės galimybių, mūsų patyrusi komanda pasirengusi jums padėti.
 
-## 📍 კონტაქტი Athenalarm
+## 📍 Kontaktai su Athenalarm
 
-**მისამართი:**  
+**Adresas:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**ელ.ფოსტა:**  
+**El. paštas:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**მობილური / WhatsApp / Viber:**  
+**Mobilus / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**ვებსაიტი:**  
+**Interneto svetainė:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 დამაკავშირეთ ჩვენთან
+## 🌐 Prisijunkite prie mūsų
 
-გახდით ინფორმირებულნი ჩვენი უახლესი **უსაფრთხოების ინოვაციებით**, **საქმეების შესწავლებით** და **პროდუქტების გამოშვებებით**:
+Sekite naujausias mūsų **saugumo inovacijas**, atvejų studijas ir produktų naujienas:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Guanlan, Longhua, Shenzhen, Guangdong, China
 
 ---
 
-> _Athenalarm — პროფესიონალური **ქურდების წინააღმდეგ დამცავი სისტემების მწარმოებელი** & **ქსელური სიგნალიზაციის მონიტორინგის გადაწყვეტილებები**._
+> _Athenalarm — Profesionali signalizacijos sistema nuo įsilaužimų gamintoja & Tinklų signalizacijos stebėjimo sprendimai._

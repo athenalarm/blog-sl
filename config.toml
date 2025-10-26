@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blogka.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Athenalarm ბლოგი"
-languageCode = "ka"
+baseURL = "https://bloglt.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Athenalarm Tinklaraštis"
+languageCode = "lt"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,24 +13,24 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "მთავარი"
+    name = "Pagrindinis"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "პოსტები"
+    name = "Įrašai"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "კონტაქტი"
+    name = "Kontaktai"
     url = "/contact/"
     weight = 3
 
 # ---------------------------
 # Home Page Settings
 # ---------------------------
-paginate = 5          # მთავარი გვერდი აჩვენებს ბოლო 5 პოსტს
-mainSections = ["posts"]  # მთავარი გვერდი აჩვენებს მხოლოდ type = "posts" პოსტებს
+paginate = 5          # Pagrindiniame puslapyje rodoma naujausių 5 įrašų
+mainSections = ["posts"]  # Pagrindiniame puslapyje rodomi tik tipo "posts" įrašai
