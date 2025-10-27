@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – ຜະລິດຕະພັນເຄື່ອງຕື່ນເຕືອນມືອາຊີບ & ການແກ້ໄຂການກວດສອບເຄື່ອງຕື່ນເຕືອນຜ່ານເຄືອຄ່າ"
+title: "Athenalarm – Profesionalni Proizvajalec Vlomnih Alarmov & Rešitve za Spletno Nadzorovanje Alarmov"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## ພາບລວມ
+## Pregled
 
-ກໍ່ຕັ້ງໃນປີ 2006, Athenalarm ເປັນຜະລິດຕະພັນເຄື່ອງຕື່ນເຕືອນມືອາຊີບ ເຊັ່ນລະບົບເຕື່ນເຕືອນການປ່ອງກັນ ແລະ ການກວດສອບເຄື່ອງຕື່ນເຕືອນຜ່ານເຄື່ອຄ່າ. ຜະລິດຕະພັນຂອງພວກເຮົາໃຫ້ການປອດໄພທີ່ນ່າເຊື່ອຖື ແລະ ປະຢັດປະໂຫຍດສໍາລັບທຸລະກິດ, ສະຖາບັນ, ແລະ ຊຸມຊົນອາໄສ. ພວກເຮົາມຸ່ງເນັ້ນລະບົບເຄື່ອງຕື່ນເຕືອນອຸດສາຫະກຳ ທີ່ປະສົມກັບ CCTV ເພື່ອການກວດສອບເວລາຈິງ, ສະຫນວັນການວິເຄາະຜ່ານໄກ ແລະ ການຄຸ້ມຄອງສ່ວນກາງ. ລະບົບເຫມາະສໍາລັບພາກສ່ວນຫຼາຍ, ຮວມທັງ ທະນາຄານ, ການສຶກສາ, ຮ້ານຄ້າ, ສຸຂະພາບ, ແລະ ຊຸມຊົນອາໄສ, ແລະ ໄດ້ຮັບການເຊື່ອຖືຈາກລູກຄ້າທົ່ວໂລກ.
+Ustanovljen leta 2006, je Athenalarm profesionalni proizvajalec vlomnih alarmov, specializiran za sisteme alarmov proti vlomu in rešitve za spletno nadzorovanje alarmov. Naši izdelki zagotavljajo zanesljive in praktične varnostne rešitve za podjetja, institucije in stanovanjske skupnosti. Osredotočamo se na industrijske sisteme vlomnih alarmov, ki združujejo alarme proti vlomu s CCTV za preverjanje v realnem času, podpirajo daljinsko diagnostiko in centralizirano upravljanje. Ti sistemi so primerni za različne sektorje, vključno z bančništvom, izobraževanjem, maloprodajo, zdravstvu in stanovanjskimi skupnostmi ter so zaupanja vredni pri strankah po vsem svetu.
 
-ຜະລິດຕະພັນຂອງພວກເຮົາຄວບຄຸມແຜງຄວບຄຸມ, ໂປຣແກຣມ, ຕື່ນເຕືອນກະຕຸ້ນ, ອຸປະກອນຕື່ນເຕືອນ, ອຸປະກອນກໍ່ສ້າງຄວາມປອດໄພ, ແລະ ອຸປະກອນເຕືອນສຽງ. ເຄື່ອງຕື່ນເຕືອນເຫມືອນນີ້ໃຫ້ການຄຸ້ມຄອງຄວາມປອດໄພທົ່ວໄປ ສໍາລັບການນຳໃຊ້ຕ່າງໆ, ຈາກຕູ້ເກັບເງິນທະນາຄານ ຈົນຖຶກຊຸມຊົນ ແລະ ສະຫນາມທຸລະກິດ.
+Naš obsežen nabor izdelkov vključuje **AS-9000 Series Alarmne Plošče**, programsko opremo za alarme, senzorje gibanja, **Detektorje Alarmov**, alarmne komponente, **Sisteme Pametnih Domov** in **AA-100 Series Glasovna Opozorila**. Ti izdelki vlomnih alarmov zagotavljajo celovito varnostno pokritost za različne uporabe, od bančnih trezorjev do obrobja skupnosti in podjetniških objektov.
 
-ນອກຈາກນີ້, ພວກເຮົາມີບໍລິການ OEM ແລະ ການກໍ່ສ້າງແບຣນດິງຕາມຄວາມຕ້ອງການ, ເພື່ອໃຫ້ພາກພິມສາມາດປະກາດລະບົບຕື່ນເຕືອນບໍລິສັດເປັນແບຣນຕົວເອງ ມີການປັບແຕ່ງຮາດແວ, ຄູ່ມືຫຼາຍພາສາ, ແລະ ການສະໜອງບໍລິການອຸປະກອນ. ໃຜເປັນຜູ້ຈັດຈໍາໜ່າຍ, ຜູ້ລວມລະບົບ, ຫຼື ຜູ້ໃຊ້ສິ່ງສຸດທ້າຍ, Athenalarm ຊ່ວຍໃຫ້ການນຳໃຊ້ລະບົບຄວາມປອດໄພມືອາຊີບໄດ້ຢ່າງລວມກັນທົ່ວໂລກ.
+Poleg tega nudimo OEM in storitve po meri za blagovne znamke, ki partnerjem omogočajo lansiranje sistemov za vlomne alarme pod lastno blagovno znamko s prilagajanjem strojne opreme, večjezičnimi priročniki in podporo pri pakiranju. Ne glede na to, ali ste distributer, integrator ali končni uporabnik, ponudba Athenalarm omogoča enostavno namestitev profesionalnih varnostnih rešitev po vsem svetu.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## ຜະລິດຕະພັນ
+## Izdelki
 
 ![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| ສາຍຜະລິດຕະພັນ | ປະໂຫຍດສໍາຄັນ | ເໝາະສົມສໍາລັບ |
-|------------------|-----------------|----------------|
-| ແຜງຄວບຄຸມເຄື່ອງຕື່ນເຕືອນ AS-9000 Series | ສາມາດສື່ສານຫຼາຍຊ່ອງ (PSTN, 4G, TCP/IP), ຂະໜາດພື້ນທີ່ສາມາດຂາຍໄດ້ (16 ສາຍມີສາຍ, 30 ບໍ່ມີສາຍ, ສູງສຸດ 1,656 ຜ່ານໂມດູນ), ຄີບອດ LCD ມີການປ່ອນສຽງ, ການກວດສອບການປ່ຽນແປງ, ບັນທຶກເຫດການອັດຕະໂນມັດ | ທະນາຄານ, ສະຖາບັນອຸດສາຫະກຳ, ໂຮງຮຽນ, ຄອມເລັກຊັນທຸລະກິດ, ຊຸມຊົນອາໄສ |
-| ການແກ້ໄຂການກວດສອບເຄື່ອງຕື່ນເຕືອນຜ່ານເຄືອຄ່າ | ການຄຸ້ມຄອງສ່ວນກາງ, ປະສົມຄວາມຕື່ນເຕືອນກັບ CCTV ແລະ ແພລດຟອມ cloud, ການປ່ອນຕື່ນເຕືອນເວລາຈິງ, ການບັນທຶກວິດີໂອ, ການເພີ່ມລະດັບໃນການສົ່ງຕໍ່, ການວິເຄາະລະບົບຜ່ານໄກ | ສາຂາທະນາຄານ, ATM, ຕູ້ເກັບເງິນ, ໂຮງແຮມ, ຮ້ານຄ້າ, ທຸລະກິດ, ຊຸມຊົນ |
-| ການເຕືອນດ້ວຍສຽງ AA-100 Series | ສາມາດປັບໄດ້ຕາມຄວາມຕ້ອງການ (MP3), ການຫາກກັນທາງສອງທາງ, ໂມດເງິນສຽງ, ການປະສົມສາຍ/ບໍ່ມີສາຍ, ໂມດແສງສອງອັນ | ຮ້ານຄ້າ, ໂຮງໝໍ, ສຳນັກງານ, ໂຮງແຮມ, ທະນາຄານ, ຄັງເກັບສິນຄ້າ, ຊຸມຊົນ |
-| ອຸປະກອນຕື່ນເຕືອນ | ຕື່ນເຕືອນ PIR (AT-805, AT-806), ຕື່ນເຕືອນຄວາມຄຸ້ມຄອງຄວາມຮຸ່ນຈ້າງ, ຕື່ນເຕືອນແກັດແອຣິຍ (AS-603PC), ຕື່ນເຕືອນແກັດແອຣິຍກາຊ (AS-705), ຕື່ນເຕືອນສຽງດິຈິຕອນ (AS-971), ປະຕູຕິດຕໍ່ (AA-56), ປຸ່ມ panic (AA-28B, AA-07) | ເຮືອນ, ສຳນັກງານ, ທະນາຄານ, ໂຮງແຮມ, ໂຮງໝໍ, ຄັງເກັບສິນຄ້າ, ຮ້ານຄ້າ |
-| ລະບົບເຮືອນອິນເຕຣັນອັດຕະໂນມັດ | ລະບົບເຄື່ອງຕື່ນເຕືອນ GSM/WIFI (AS-6000), ປະສົມກັບຕື່ນເຕືອນອື່ນ ແລະ ແຜງຄວບຄຸມ ສໍາລັບການປ່ອນຕື່ນເຕືອນອັດຕະໂນມັດ ແລະ ການກວດສອບຜ່ານໄກ | ຊຸມຊົນ, ສຳນັກງານ, ທຸລະກິດນ້ອຍ |
+| Linija izdelkov | Ključne prednosti | Primerno za |
+|-----------------|-----------------|-------------|
+| AS-9000 Series Alarmne Plošče | Večkanalna komunikacija (PSTN, 4G, TCP/IP), razširljive cone (16 ožičenih, 30 brezžičnih, do 1,656 preko modulov), LCD tipkovnica z glasovnimi navodili, zaznavanje manipulacije, samodejno beleženje dogodkov | Banke, industrijski parki, šole, poslovni kompleksi, stanovanjske skupnosti |
+| Rešitve za Spletno Nadzorovanje Alarmov | Centralizirano upravljanje, integrira alarme proti vlomu s CCTV & oblačnimi platformami, pojavni alarmi v realnem času, video snemanje, večstopenjsko posredovanje, daljinska diagnostika | Bančne poslovalnice, bankomati, trezorji, hoteli, trgovine, podjetja, obrobja, stanovanjske skupnosti |
+| AA-100 Series Glasovna Opozorila | Prilagodljiva glasovna opozorila (MP3), dvosmerno predvajanje, način utišanega alarma, ožičena/brezžična integracija, dvojni svetlobni načini | Maloprodajni prostori, bolnišnice, pisarne, hoteli, banke, skladišča, stanovanjska območja |
+| Detektorji Alarmov | PIR senzorji gibanja (AT-805, AT-806), fotoelektrični detektor dima (AS-603PC), detektor plina (AS-705), digitalni detektor vibracij (AS-971), stikala za vrata (AA-56), gumbi za paniko (AA-28B, AA-07) | Domovi, pisarne, banke, hoteli, bolnišnice, skladišča, maloprodajni prostori |
+| Sistemi Pametnih Domov | GSM/WIFI alarmni sistem (AS-6000), integrira z drugimi senzorji in ploščami za avtomatizirana opozorila in daljinski nadzor | Stanovanjske skupnosti, pisarne, mala podjetja |
 
-[ຊົມວິດີໂອ 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[ຊົມວິດີໂອ 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Oglejte si Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Oglejte si Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## ບໍລິການ OEM ແລະ ການສ້າງແບບຕາມຄວາມຕ້ອງການ
+## OEM & Storitve po meri za blagovne znamke
 
-ພວກເຮົາສະເໝີແບບສິນຄ້າຕົວຕົນ ແລະ ການປັບແຕ່ງຕາມຄວາມຕ້ອງການສໍາລັບຜູ້ຈັດຈໍາໜ່າຍ ແລະ ຜູ້ລວມລະບົບ: ການປັບແຕ່ງຮູບແບບຮູບພາບ, ຄູ່ມືຫຼາຍພາສາ, ບໍລິການອຸປະກອນ, ແລະ ການສະໜອງແບບບຣານດິງ. ຊ່ວຍໃຫ້ພາກພິມສາມາດເລີ່ມຜະລິດຕະພັນເຄື່ອງຕື່ນເຕືອນທີ່ມີແບຣນດິງໄດ້ຢ່າງລ່ຽງເສຍ ແລະ ມີມາດຕະຖານອາຊີບ.
+Nudimo rešitve po meri in pod lastno blagovno znamko za distributerje in integratorje: prilagoditev strojne opreme, večjezični priročniki, pakiranje in podpora pri blagovni znamki. Partnerjem omogoča hitro in profesionalno lansiranje izdelkov **vlomnih alarmov** pod lastno blagovno znamko.
 
-ເຫມາະສົມສໍາລັບ: ຜູ້ຈັດຈໍາໜ່າຍ ແລະ ຜູ້ລວມລະບົບທີ່ເລີ່ມຜະລິດຕະພັນຕື່ນເຕືອນມີແບຣນດິງ
+Primerno za: Distributerje in integratorje, ki lansirajo izdelke blagovne znamke
 
-[ເບິ່ງຕົວຢ່າງ OEM](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[Oglejte si OEM primer](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## ເປັນເຫດຜົນທຳມິດ Athenalarm
+## Zakaj izbrati Athenalarm
 
-- ຄວາມຊຳນານທີ່ທົດລອງແລ້ວ: ຕັ້ງແຕ່ 2006, ສະເໝີໃຫ້ລະບົບຕື່ນເຕືອນທີ່ຂາຍໄດ້ຫຼາຍ ແລະ ການຄວບຄຸມຄວາມປອດໄພທີ່ລູກຄ້າເຊື່ອຖືທົ່ວໂລກ.  
-- ການນຳໃຊ້ຫຼາຍຮູບແບບ: ເຫມາສົມສໍາລັບທະນາຄານ, ໂຮງແຮມ, ຮ້ານຄ້າ, ຊຸມຊົນ, ສຳນັກງານ, ແລະ ອື່ນໆ — ປະສົມການຕື່ນເຕືອນ, CCTV ແລະເທັກໂນໂລຊີ cloud ສໍາລັບການຄວບຄຸມສ່ວນກາງ.  
-- ສິ່ງໃໝ່ທີ່ຄຸ້ມຄ່າ: ລະບົບທີ່ງ່າຍຕໍ່ການຕິດຕັ້ງ ມີການສື່ສານຫຼາຍຊ່ອງ (PSTN, 4G, TCP/IP) ແລະ ຄຸນສົມບັດທີ່ຂາຍໄດ້ຢ່າງມີປະສິດທິພາບ.  
-- ຄວາມພຶງພິງຂອງລູກຄ້າ: ໄດ້ຮັບຄວາມເຊື່ອຖືຈາກລູກຄ້າທົ່ວໂລກ ສໍາລັບຜະລິດຕະພັນ ແລະ ລະບົບຄວາມປອດໄພທີ່ເຊື່ອຖືໄດ້.
+- Dokazana strokovnost: Od leta 2006 zagotavljamo razširljive rešitve za alarme proti vlomu in **vlomne alarme**, zaupanja vredne pri strankah po vsem svetu.  
+- Vsestranka uporaba: Primerno za banke, hotele, trgovine, skupnosti, pisarne in več – združuje alarme, CCTV in oblačno tehnologijo za centralizirano upravljanje.  
+- Stroškovno učinkovite inovacije: Enostavno nameščeni sistemi z večkanalno komunikacijo (PSTN, 4G, TCP/IP) in razširljivimi funkcijami po konkurenčnih cenah.  
+- Zadovoljstvo strank: Zaupanja vredno pri strankah po vsem svetu za zanesljive varnostne izdelke in sisteme.
 
-[ເບິ່ງກ່ອນຕິດຕັ້ງລູກຄ້າ](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Oglejte si primere namestitev strank](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## ຄຳຊົມຂອງລູກຄ້າ
+## Mnenja strank
 
-- “ເຄື່ອງຕື່ນເຕືອນດີ, ຂ້ອຍຕິດຕັ້ງເຊັ່ນນີ້ ແລະ ເຮັດວຽກໄດ້ດີ.” – Rabeah Arnous, CEO  
-- “ລະບົບນີ້ນ້າງຫນັກ... ຂ້ອຍໄດ້ຕິດຕັ້ງ ແລະ ລູກຄ້າຂອງຂ້ອຍພາບພຶງພິງ. ຄະແນນ 5 ດາວ.” – Bassey Tom, CEO  
-- “ລະບົບກວດສອບເຄື່ອງຕື່ນເຕືອນຜ່ານເຄືອຄ່າດີຫນຶ່ງ, ງ່າຍຕໍ່ການນຳໃຊ້, ງ່າຍຕໍ່ການຕິດຕັ້ງ ແລະ ການສົ່ງຂໍ້ມູນຕາມເວລາຈິງ. ພວກເຮົາຄາດຫວັງການສັ່ງຄໍາສັ່ງຄັ້ງຕໍ່ໄປ.” – Ben Takan, Security Coordinator
+- “Alarm proti vlomu je odličen, namestil sem en komplet in deluje odlično.” – Rabeah Arnous, CEO  
+- “Neverjeten sistem… Namestil sem ga in moj klient je bil zelo zadovoljen. Ocena 5 zvezdic.” – Bassey Tom, CEO  
+- “Sistem spletnega nadzorovanja alarmov je odličen, enostaven za uporabo, enostaven za namestitev in nad realnim časom prenosa. Veselimo se našega naslednjega naročila.” – Ben Takan, Koordinator varnosti
 
-## ເລີ່ມຕົ້ນໄດ້ເລີຍ
+## Začnite
 
-ບໍ່ວ່າທ່ານເປັນຜູ້ລວມລະບົບຄວາມປອດໄພ, ຜູ້ຈັດຈໍາໜ່າຍ, ຫຼື ຜູ້ໃຊ້ສິ່ງສຸດທ້າຍ, Athenalarm ໃຫ້ຜະລິດຕະພັນເຄື່ອງຕື່ນເຕືອນທີ່ມີຄຸນນະພາບສູງ ແລະ ລະບົບຕື່ນເຕືອນທີ່ອອກແບບມາຕາມຄວາມຕ້ອງການຂອງທ່ານ.
+Ne glede na to, ali ste integrator varnostnih sistemov, distributer ali končni uporabnik, Athenalarm nudi visokokakovostne izdelke **vlomnih alarmov** in sisteme alarmov proti vlomu, prilagojene vašim potrebam.
 
-[ເຂົ້າໄປ Athenalarm.com ຕອນນີ້ – ຮັບສ່ວນຫຼິ້ນຟຣີໄດ້ໃນມື້ນີ້!](https://athenalarm.com/)
+[Obiščite Athenalarm.com zdaj – Pridobite brezplačno ponudbo še danes!](https://athenalarm.com/)
 
-## ຕິດຕໍ່ພວກເຮົາໂດຍກົງ
+## Kontaktirajte nas neposredno
 
-- ເວັບໄຊ: [https://athenalarm.com/](https://athenalarm.com/)  
-- ອີເມວ: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- ໂທລະສັບ/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Spletna stran: [https://athenalarm.com/](https://athenalarm.com/)  
+- E-pošta: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Mobilno/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## ຕິດຕາມພວກເຮົາ
+## Sledite nam
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  

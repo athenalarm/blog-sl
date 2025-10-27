@@ -1,31 +1,31 @@
 ---
-title: "ຕິດຕໍ່"
+title: "Kontakt"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-ພວກເຮົາຢູ່ທີ່ນີ້ເພື່ອຊ່ວຍໃຫ້ທ່ານຄົ້ນຫາຜະລິດຕະພັນເຄື່ອງເຕືອນລະຫວ່າງຂອງຂະຫນາດດີທີ່ສຸດແລະວິທີການຄວາມປອດໄພສຳລັບທຸລະກິດຂອງທ່ານ. ບໍ່ວ່າທ່ານຈຳເປັນຕ້ອງການການສະໜອງທາງເຕັກນິກ, ລາຍລະອຽດການຈ່າຍຈຳໜ່າຍ, ຫຼືຂໍ້ມູນການປະສານງານ, ທີມງານມີປະສົບການຂອງພວກເຮົາພ້ອມທີ່ຈະຊ່ວຍເຫຼືອ.
+Tu smo, da vam pomagamo najti najboljše izdelke protivlomne alarme in varnostne rešitve za vaše podjetje. Ne glede na to, ali potrebujete tehnično podporo, informacije o distribuciji ali partnerstvu, je naša izkušena ekipa pripravljena pomagati.
 
-## 📍 ຕິດຕໍ່ Athenalarm
+## 📍 Kontakt Athenalarm
 
-**ທີ່ຢູ່:**  
+**Naslov:**  
 D910, Silver Star Scientific and Technical Building,  
-Guanlan, Longhua, Shenzhen, Guangdong, China  
+Guanlan, Longhua, Shenzhen, Guangdong, Kitajska  
 
-**ອີເມວ:**  
+**E-pošta:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**ເບີໂທ / WhatsApp / Viber:**  
+**Mobilni / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**ເວັບໄຊທ໌:**  
+**Spletna stran:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 ເຊື່ອມຕໍ່ກັບພວກເຮົາ
+## 🌐 Povežite se z nami
 
-ອັບເດດຂ່າວສານແລະສິນຄ້າຄວາມປອດໄພໃໝ່ໆ, ການສຶກສາກເຄື່ອງມື, ແລະການອອກຜະລິດຕະພັນ:
+Ostanite obveščeni o naših najnovejših varnostnih inovacijah, študijah primerov in predstavitvah izdelkov:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Guanlan, Longhua, Shenzhen, Guangdong, China
 
 ---
 
-> _Athenalarm — ຜະລິດຕະພັນເຄື່ອງເຕືອນລະຫວ່າງມືອາຊີບ & ວິທີການກວດຈັບເຄື່ອງເຕືອນຜ່ານເຄືອຂ່າຍ._
+> _Athenalarm — Profesionalni proizvajalec protivlomnih alarmov in rešitve za mrežno nadzorovanje alarmov._
